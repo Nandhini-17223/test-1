@@ -1,0 +1,19 @@
+section{
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: lightblue;
+}
+
+header{
+    color: rgb(255, 0, 157);
+    text-align: center;
+}
+
+.one{
+    color: rgb(0, 187, 255);
+}
+
+table ,th,tr,td{
+    color: rgb(42, 165, 85);
+    padding: 10px;
+}
